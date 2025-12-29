@@ -1,0 +1,45 @@
+﻿<%@ Master Language="C#" AutoEventWireup="true"
+    CodeBehind="Site.Master.cs"
+    Inherits="ElectricityMiniProject.SiteMaster" %>
+
+<!DOCTYPE html>
+<html>
+<head runat="server">
+    <title>Electricity Billing System</title>
+</head>
+<body>
+
+    <form id="form1" runat="server">
+
+        <h1>Electricity Board Billing System</h1>
+
+        <div style="background:#2c3e50; padding:10px;">
+
+    <asp:HyperLink ID="lnkAdd" runat="server"
+        NavigateUrl="AddBill.aspx"
+        Text="Add Bill"
+        ForeColor="White" />
+
+    &nbsp;&nbsp;
+
+    <asp:HyperLink ID="lnkView" runat="server"
+        NavigateUrl="ViewBill.aspx"
+        Text="View Bills"
+        ForeColor="White" />
+
+    &nbsp;&nbsp;
+
+    <asp:LinkButton ID="lnkLogout" runat="server"
+        Text="Logout"
+        ForeColor="White"
+        OnClick="lnkLogout_Click" />
+
+</div>
+        <hr />
+
+        <asp:ContentPlaceHolder ID="MainContent" runat="server" />
+
+    </form>
+
+</body>
+</html>
