@@ -1,0 +1,228 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\infinite_oct_2025\\MiniProject\\ElectricityMiniProject\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{DA2C6AE1-BD71-4162-9823-76045E660016}|ElectricityMiniProject.csproj|C:\\infinite_oct_2025\\MiniProject\\ElectricityMiniProject\\site.master.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DA2C6AE1-BD71-4162-9823-76045E660016}|ElectricityMiniProject.csproj|solutionrelative:site.master.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DA2C6AE1-BD71-4162-9823-76045E660016}|ElectricityMiniProject.csproj|C:\\infinite_oct_2025\\MiniProject\\ElectricityMiniProject\\site.master||{B30AFBFF-D992-43B7-B62D-2642580A2883}",
+      "RelativeMoniker": "D:0:0:{DA2C6AE1-BD71-4162-9823-76045E660016}|ElectricityMiniProject.csproj|solutionrelative:site.master||{B30AFBFF-D992-43B7-B62D-2642580A2883}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DA2C6AE1-BD71-4162-9823-76045E660016}|ElectricityMiniProject.csproj|C:\\infinite_oct_2025\\MiniProject\\ElectricityMiniProject\\adminlogin.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DA2C6AE1-BD71-4162-9823-76045E660016}|ElectricityMiniProject.csproj|solutionrelative:adminlogin.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DA2C6AE1-BD71-4162-9823-76045E660016}|ElectricityMiniProject.csproj|C:\\infinite_oct_2025\\MiniProject\\ElectricityMiniProject\\adminlogin.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{DA2C6AE1-BD71-4162-9823-76045E660016}|ElectricityMiniProject.csproj|solutionrelative:adminlogin.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DA2C6AE1-BD71-4162-9823-76045E660016}|ElectricityMiniProject.csproj|C:\\infinite_oct_2025\\MiniProject\\ElectricityMiniProject\\viewbill.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DA2C6AE1-BD71-4162-9823-76045E660016}|ElectricityMiniProject.csproj|solutionrelative:viewbill.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DA2C6AE1-BD71-4162-9823-76045E660016}|ElectricityMiniProject.csproj|C:\\infinite_oct_2025\\MiniProject\\ElectricityMiniProject\\viewbill.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{DA2C6AE1-BD71-4162-9823-76045E660016}|ElectricityMiniProject.csproj|solutionrelative:viewbill.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DA2C6AE1-BD71-4162-9823-76045E660016}|ElectricityMiniProject.csproj|C:\\infinite_oct_2025\\MiniProject\\ElectricityMiniProject\\addbill.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DA2C6AE1-BD71-4162-9823-76045E660016}|ElectricityMiniProject.csproj|solutionrelative:addbill.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DA2C6AE1-BD71-4162-9823-76045E660016}|ElectricityMiniProject.csproj|C:\\infinite_oct_2025\\MiniProject\\ElectricityMiniProject\\addbill.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{DA2C6AE1-BD71-4162-9823-76045E660016}|ElectricityMiniProject.csproj|solutionrelative:addbill.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DA2C6AE1-BD71-4162-9823-76045E660016}|ElectricityMiniProject.csproj|C:\\infinite_oct_2025\\MiniProject\\ElectricityMiniProject\\dbhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DA2C6AE1-BD71-4162-9823-76045E660016}|ElectricityMiniProject.csproj|solutionrelative:dbhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DA2C6AE1-BD71-4162-9823-76045E660016}|ElectricityMiniProject.csproj|C:\\infinite_oct_2025\\MiniProject\\ElectricityMiniProject\\electricityboard.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DA2C6AE1-BD71-4162-9823-76045E660016}|ElectricityMiniProject.csproj|solutionrelative:electricityboard.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DA2C6AE1-BD71-4162-9823-76045E660016}|ElectricityMiniProject.csproj|C:\\infinite_oct_2025\\MiniProject\\ElectricityMiniProject\\billvalidator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DA2C6AE1-BD71-4162-9823-76045E660016}|ElectricityMiniProject.csproj|solutionrelative:billvalidator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DA2C6AE1-BD71-4162-9823-76045E660016}|ElectricityMiniProject.csproj|c:\\infinite_oct_2025\\miniproject\\electricityminiproject\\electricitybill.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DA2C6AE1-BD71-4162-9823-76045E660016}|ElectricityMiniProject.csproj|solutionrelative:electricitybill.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Site.Master.cs",
+              "DocumentMoniker": "C:\\infinite_oct_2025\\MiniProject\\ElectricityMiniProject\\Site.Master.cs",
+              "RelativeDocumentMoniker": "Site.Master.cs",
+              "ToolTip": "C:\\infinite_oct_2025\\MiniProject\\ElectricityMiniProject\\Site.Master.cs",
+              "RelativeToolTip": "Site.Master.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-26T13:28:18.085Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Site.Master",
+              "DocumentMoniker": "C:\\infinite_oct_2025\\MiniProject\\ElectricityMiniProject\\Site.Master",
+              "RelativeDocumentMoniker": "Site.Master",
+              "ToolTip": "C:\\infinite_oct_2025\\MiniProject\\ElectricityMiniProject\\Site.Master",
+              "RelativeToolTip": "Site.Master",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2025-12-26T13:27:06.958Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "AdminLogin.aspx.cs",
+              "DocumentMoniker": "C:\\infinite_oct_2025\\MiniProject\\ElectricityMiniProject\\AdminLogin.aspx.cs",
+              "RelativeDocumentMoniker": "AdminLogin.aspx.cs",
+              "ToolTip": "C:\\infinite_oct_2025\\MiniProject\\ElectricityMiniProject\\AdminLogin.aspx.cs",
+              "RelativeToolTip": "AdminLogin.aspx.cs",
+              "ViewState": "AgIAAA0AAAAAAAAAAAAQwBMAAAAQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-26T07:33:29.453Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "AdminLogin.aspx",
+              "DocumentMoniker": "C:\\infinite_oct_2025\\MiniProject\\ElectricityMiniProject\\AdminLogin.aspx",
+              "RelativeDocumentMoniker": "AdminLogin.aspx",
+              "ToolTip": "C:\\infinite_oct_2025\\MiniProject\\ElectricityMiniProject\\AdminLogin.aspx",
+              "RelativeToolTip": "AdminLogin.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2025-12-26T07:32:49.923Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "ViewBill.aspx.cs",
+              "DocumentMoniker": "C:\\infinite_oct_2025\\MiniProject\\ElectricityMiniProject\\ViewBill.aspx.cs",
+              "RelativeDocumentMoniker": "ViewBill.aspx.cs",
+              "ToolTip": "C:\\infinite_oct_2025\\MiniProject\\ElectricityMiniProject\\ViewBill.aspx.cs",
+              "RelativeToolTip": "ViewBill.aspx.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAABEAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-26T07:09:18.849Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "ViewBill.aspx",
+              "DocumentMoniker": "C:\\infinite_oct_2025\\MiniProject\\ElectricityMiniProject\\ViewBill.aspx",
+              "RelativeDocumentMoniker": "ViewBill.aspx",
+              "ToolTip": "C:\\infinite_oct_2025\\MiniProject\\ElectricityMiniProject\\ViewBill.aspx",
+              "RelativeToolTip": "ViewBill.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2025-12-26T07:06:57.97Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "AddBill.aspx.cs",
+              "DocumentMoniker": "C:\\infinite_oct_2025\\MiniProject\\ElectricityMiniProject\\AddBill.aspx.cs",
+              "RelativeDocumentMoniker": "AddBill.aspx.cs",
+              "ToolTip": "C:\\infinite_oct_2025\\MiniProject\\ElectricityMiniProject\\AddBill.aspx.cs",
+              "RelativeToolTip": "AddBill.aspx.cs",
+              "ViewState": "AgIAAFIAAAAAAAAAAAAYwFAAAAAsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-26T07:05:02.848Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "AddBill.aspx",
+              "DocumentMoniker": "C:\\infinite_oct_2025\\MiniProject\\ElectricityMiniProject\\AddBill.aspx",
+              "RelativeDocumentMoniker": "AddBill.aspx",
+              "ToolTip": "C:\\infinite_oct_2025\\MiniProject\\ElectricityMiniProject\\AddBill.aspx",
+              "RelativeToolTip": "AddBill.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2025-12-26T07:01:47.624Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "DBHandler.cs",
+              "DocumentMoniker": "C:\\infinite_oct_2025\\MiniProject\\ElectricityMiniProject\\DBHandler.cs",
+              "RelativeDocumentMoniker": "DBHandler.cs",
+              "ToolTip": "C:\\infinite_oct_2025\\MiniProject\\ElectricityMiniProject\\DBHandler.cs",
+              "RelativeToolTip": "DBHandler.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAAABAAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-26T07:00:00.331Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "ElectricityBoard.cs",
+              "DocumentMoniker": "C:\\infinite_oct_2025\\MiniProject\\ElectricityMiniProject\\ElectricityBoard.cs",
+              "RelativeDocumentMoniker": "ElectricityBoard.cs",
+              "ToolTip": "C:\\infinite_oct_2025\\MiniProject\\ElectricityMiniProject\\ElectricityBoard.cs",
+              "RelativeToolTip": "ElectricityBoard.cs",
+              "ViewState": "AgIAAEgAAAAAAAAAAAAgwFEAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-26T06:38:55.802Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "BillValidator.cs",
+              "DocumentMoniker": "C:\\infinite_oct_2025\\MiniProject\\ElectricityMiniProject\\BillValidator.cs",
+              "RelativeDocumentMoniker": "BillValidator.cs",
+              "ToolTip": "C:\\infinite_oct_2025\\MiniProject\\ElectricityMiniProject\\BillValidator.cs",
+              "RelativeToolTip": "BillValidator.cs",
+              "ViewState": "AgIAAAcAAAAAAAAAAAAAAA4AAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-26T06:37:13.793Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "ElectricityBill.cs",
+              "DocumentMoniker": "C:\\infinite_oct_2025\\MiniProject\\ElectricityMiniProject\\ElectricityBill.cs",
+              "RelativeDocumentMoniker": "ElectricityBill.cs",
+              "ToolTip": "C:\\infinite_oct_2025\\MiniProject\\ElectricityMiniProject\\ElectricityBill.cs",
+              "RelativeToolTip": "ElectricityBill.cs",
+              "ViewState": "AgIAABMAAAAAAAAAAAAQwB0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-26T06:36:00.044Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
