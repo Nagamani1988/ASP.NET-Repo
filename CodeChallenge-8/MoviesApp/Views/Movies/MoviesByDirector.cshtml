@@ -1,0 +1,8 @@
+﻿@model IEnumerable<MoviesApp.Models.Movie>
+
+<h2>Movies by Director</h2>
+
+@foreach (var m in Model)
+{
+    <p>@m.MovieName - @m.DirectorName</p>
+}

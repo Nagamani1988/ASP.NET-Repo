@@ -1,0 +1,211 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\infinite_oct_2025\\CodeChallenge-8\\MoviesApp\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{138AF927-BD77-4801-8C94-A15B673830E2}|MoviesApp.csproj|c:\\infinite_oct_2025\\codechallenge-8\\moviesapp\\views\\movies\\moviesbyyear.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{138AF927-BD77-4801-8C94-A15B673830E2}|MoviesApp.csproj|solutionrelative:views\\movies\\moviesbyyear.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{138AF927-BD77-4801-8C94-A15B673830E2}|MoviesApp.csproj|c:\\infinite_oct_2025\\codechallenge-8\\moviesapp\\views\\movies\\moviesbydirector.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{138AF927-BD77-4801-8C94-A15B673830E2}|MoviesApp.csproj|solutionrelative:views\\movies\\moviesbydirector.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{138AF927-BD77-4801-8C94-A15B673830E2}|MoviesApp.csproj|c:\\infinite_oct_2025\\codechallenge-8\\moviesapp\\views\\movies\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{138AF927-BD77-4801-8C94-A15B673830E2}|MoviesApp.csproj|solutionrelative:views\\movies\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{138AF927-BD77-4801-8C94-A15B673830E2}|MoviesApp.csproj|c:\\infinite_oct_2025\\codechallenge-8\\moviesapp\\controllers\\moviescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{138AF927-BD77-4801-8C94-A15B673830E2}|MoviesApp.csproj|solutionrelative:controllers\\moviescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{138AF927-BD77-4801-8C94-A15B673830E2}|MoviesApp.csproj|c:\\infinite_oct_2025\\codechallenge-8\\moviesapp\\repository\\movierepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{138AF927-BD77-4801-8C94-A15B673830E2}|MoviesApp.csproj|solutionrelative:repository\\movierepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{138AF927-BD77-4801-8C94-A15B673830E2}|MoviesApp.csproj|c:\\infinite_oct_2025\\codechallenge-8\\moviesapp\\repository\\imovierepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{138AF927-BD77-4801-8C94-A15B673830E2}|MoviesApp.csproj|solutionrelative:repository\\imovierepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{138AF927-BD77-4801-8C94-A15B673830E2}|MoviesApp.csproj|c:\\infinite_oct_2025\\codechallenge-8\\moviesapp\\web.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{138AF927-BD77-4801-8C94-A15B673830E2}|MoviesApp.csproj|solutionrelative:web.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{138AF927-BD77-4801-8C94-A15B673830E2}|MoviesApp.csproj|c:\\infinite_oct_2025\\codechallenge-8\\moviesapp\\models\\moviescontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{138AF927-BD77-4801-8C94-A15B673830E2}|MoviesApp.csproj|solutionrelative:models\\moviescontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{138AF927-BD77-4801-8C94-A15B673830E2}|MoviesApp.csproj|c:\\infinite_oct_2025\\codechallenge-8\\moviesapp\\models\\movie.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{138AF927-BD77-4801-8C94-A15B673830E2}|MoviesApp.csproj|solutionrelative:models\\movie.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{138AF927-BD77-4801-8C94-A15B673830E2}|MoviesApp.csproj|c:\\infinite_oct_2025\\codechallenge-8\\moviesapp\\migrations\\202601130507191_initialcreate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{138AF927-BD77-4801-8C94-A15B673830E2}|MoviesApp.csproj|solutionrelative:migrations\\202601130507191_initialcreate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{138AF927-BD77-4801-8C94-A15B673830E2}|MoviesApp.csproj|c:\\infinite_oct_2025\\codechallenge-8\\moviesapp\\migrations\\configuration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{138AF927-BD77-4801-8C94-A15B673830E2}|MoviesApp.csproj|solutionrelative:migrations\\configuration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "MoviesByDirector.cshtml",
+              "DocumentMoniker": "C:\\infinite_oct_2025\\CodeChallenge-8\\MoviesApp\\Views\\Movies\\MoviesByDirector.cshtml",
+              "RelativeDocumentMoniker": "Views\\Movies\\MoviesByDirector.cshtml",
+              "ToolTip": "C:\\infinite_oct_2025\\CodeChallenge-8\\MoviesApp\\Views\\Movies\\MoviesByDirector.cshtml",
+              "RelativeToolTip": "Views\\Movies\\MoviesByDirector.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-01-13T05:21:07.904Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "MoviesByYear.cshtml",
+              "DocumentMoniker": "C:\\infinite_oct_2025\\CodeChallenge-8\\MoviesApp\\Views\\Movies\\MoviesByYear.cshtml",
+              "RelativeDocumentMoniker": "Views\\Movies\\MoviesByYear.cshtml",
+              "ToolTip": "C:\\infinite_oct_2025\\CodeChallenge-8\\MoviesApp\\Views\\Movies\\MoviesByYear.cshtml",
+              "RelativeToolTip": "Views\\Movies\\MoviesByYear.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-01-13T05:20:42.125Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\infinite_oct_2025\\CodeChallenge-8\\MoviesApp\\Views\\Movies\\Index.cshtml",
+              "RelativeDocumentMoniker": "Views\\Movies\\Index.cshtml",
+              "ToolTip": "C:\\infinite_oct_2025\\CodeChallenge-8\\MoviesApp\\Views\\Movies\\Index.cshtml",
+              "RelativeToolTip": "Views\\Movies\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-01-13T05:19:59.732Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "MoviesController.cs",
+              "DocumentMoniker": "C:\\infinite_oct_2025\\CodeChallenge-8\\MoviesApp\\Controllers\\MoviesController.cs",
+              "RelativeDocumentMoniker": "Controllers\\MoviesController.cs",
+              "ToolTip": "C:\\infinite_oct_2025\\CodeChallenge-8\\MoviesApp\\Controllers\\MoviesController.cs*",
+              "RelativeToolTip": "Controllers\\MoviesController.cs*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAADsAAAAHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-13T05:16:37.344Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "MovieRepository.cs",
+              "DocumentMoniker": "C:\\infinite_oct_2025\\CodeChallenge-8\\MoviesApp\\Repository\\MovieRepository.cs",
+              "RelativeDocumentMoniker": "Repository\\MovieRepository.cs",
+              "ToolTip": "C:\\infinite_oct_2025\\CodeChallenge-8\\MoviesApp\\Repository\\MovieRepository.cs",
+              "RelativeToolTip": "Repository\\MovieRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAXAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-13T05:15:08.266Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "IMovieRepository.cs",
+              "DocumentMoniker": "C:\\infinite_oct_2025\\CodeChallenge-8\\MoviesApp\\Repository\\IMovieRepository.cs",
+              "RelativeDocumentMoniker": "Repository\\IMovieRepository.cs",
+              "ToolTip": "C:\\infinite_oct_2025\\CodeChallenge-8\\MoviesApp\\Repository\\IMovieRepository.cs",
+              "RelativeToolTip": "Repository\\IMovieRepository.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-13T05:13:50.649Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "202601130507191_InitialCreate.cs",
+              "DocumentMoniker": "C:\\infinite_oct_2025\\CodeChallenge-8\\MoviesApp\\Migrations\\202601130507191_InitialCreate.cs",
+              "RelativeDocumentMoniker": "Migrations\\202601130507191_InitialCreate.cs",
+              "ToolTip": "C:\\infinite_oct_2025\\CodeChallenge-8\\MoviesApp\\Migrations\\202601130507191_InitialCreate.cs",
+              "RelativeToolTip": "Migrations\\202601130507191_InitialCreate.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-13T05:07:23.588Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Configuration.cs",
+              "DocumentMoniker": "C:\\infinite_oct_2025\\CodeChallenge-8\\MoviesApp\\Migrations\\Configuration.cs",
+              "RelativeDocumentMoniker": "Migrations\\Configuration.cs",
+              "ToolTip": "C:\\infinite_oct_2025\\CodeChallenge-8\\MoviesApp\\Migrations\\Configuration.cs",
+              "RelativeToolTip": "Migrations\\Configuration.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-13T05:06:48.286Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Web.config",
+              "DocumentMoniker": "C:\\infinite_oct_2025\\CodeChallenge-8\\MoviesApp\\Web.config",
+              "RelativeDocumentMoniker": "Web.config",
+              "ToolTip": "C:\\infinite_oct_2025\\CodeChallenge-8\\MoviesApp\\Web.config",
+              "RelativeToolTip": "Web.config",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000601|",
+              "WhenOpened": "2026-01-13T04:51:36.281Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "MoviesContext.cs",
+              "DocumentMoniker": "C:\\infinite_oct_2025\\CodeChallenge-8\\MoviesApp\\Models\\MoviesContext.cs",
+              "RelativeDocumentMoniker": "Models\\MoviesContext.cs",
+              "ToolTip": "C:\\infinite_oct_2025\\CodeChallenge-8\\MoviesApp\\Models\\MoviesContext.cs*",
+              "RelativeToolTip": "Models\\MoviesContext.cs*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-13T04:47:02.004Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Movie.cs",
+              "DocumentMoniker": "C:\\infinite_oct_2025\\CodeChallenge-8\\MoviesApp\\Models\\Movie.cs",
+              "RelativeDocumentMoniker": "Models\\Movie.cs",
+              "ToolTip": "C:\\infinite_oct_2025\\CodeChallenge-8\\MoviesApp\\Models\\Movie.cs*",
+              "RelativeToolTip": "Models\\Movie.cs*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-13T04:45:21.782Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
