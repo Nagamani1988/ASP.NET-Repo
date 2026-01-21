@@ -1,0 +1,159 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\infinite_oct_2025\\Code Challenge-9\\WebApplication\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{14F0231E-9BC5-4182-A8B5-9BDC364BEDE8}|WebApplication.csproj|c:\\infinite_oct_2025\\code challenge-9\\webapplication\\controllers\\customercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{14F0231E-9BC5-4182-A8B5-9BDC364BEDE8}|WebApplication.csproj|solutionrelative:controllers\\customercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{14F0231E-9BC5-4182-A8B5-9BDC364BEDE8}|WebApplication.csproj|c:\\infinite_oct_2025\\code challenge-9\\webapplication\\controllers\\ordercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{14F0231E-9BC5-4182-A8B5-9BDC364BEDE8}|WebApplication.csproj|solutionrelative:controllers\\ordercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{14F0231E-9BC5-4182-A8B5-9BDC364BEDE8}|WebApplication.csproj|c:\\infinite_oct_2025\\code challenge-9\\webapplication\\models\\customerandorder.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{14F0231E-9BC5-4182-A8B5-9BDC364BEDE8}|WebApplication.csproj|solutionrelative:models\\customerandorder.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{14F0231E-9BC5-4182-A8B5-9BDC364BEDE8}|WebApplication.csproj|c:\\infinite_oct_2025\\code challenge-9\\webapplication\\web.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{14F0231E-9BC5-4182-A8B5-9BDC364BEDE8}|WebApplication.csproj|solutionrelative:web.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{14F0231E-9BC5-4182-A8B5-9BDC364BEDE8}|WebApplication.csproj|c:\\infinite_oct_2025\\code challenge-9\\webapplication\\model2.context.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{14F0231E-9BC5-4182-A8B5-9BDC364BEDE8}|WebApplication.csproj|solutionrelative:model2.context.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{14F0231E-9BC5-4182-A8B5-9BDC364BEDE8}|WebApplication.csproj|c:\\infinite_oct_2025\\code challenge-9\\webapplication\\model2.context.tt||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{14F0231E-9BC5-4182-A8B5-9BDC364BEDE8}|WebApplication.csproj|solutionrelative:model2.context.tt||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{14F0231E-9BC5-4182-A8B5-9BDC364BEDE8}|WebApplication.csproj|c:\\infinite_oct_2025\\code challenge-9\\webapplication\\model2.edmx||{C99AEA30-8E36-4515-B76F-496F5A48A6AA}|",
+      "RelativeMoniker": "D:0:0:{14F0231E-9BC5-4182-A8B5-9BDC364BEDE8}|WebApplication.csproj|solutionrelative:model2.edmx||{C99AEA30-8E36-4515-B76F-496F5A48A6AA}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{14F0231E-9BC5-4182-A8B5-9BDC364BEDE8}|WebApplication.csproj|c:\\infinite_oct_2025\\code challenge-9\\webapplication\\app_start\\webapiconfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{14F0231E-9BC5-4182-A8B5-9BDC364BEDE8}|WebApplication.csproj|solutionrelative:app_start\\webapiconfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "CustomerController.cs",
+              "DocumentMoniker": "C:\\infinite_oct_2025\\Code Challenge-9\\WebApplication\\Controllers\\CustomerController.cs",
+              "RelativeDocumentMoniker": "Controllers\\CustomerController.cs",
+              "ToolTip": "C:\\infinite_oct_2025\\Code Challenge-9\\WebApplication\\Controllers\\CustomerController.cs",
+              "RelativeToolTip": "Controllers\\CustomerController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-21T06:16:30.071Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Model2.Context.cs",
+              "DocumentMoniker": "C:\\infinite_oct_2025\\Code Challenge-9\\WebApplication\\Model2.Context.cs",
+              "RelativeDocumentMoniker": "Model2.Context.cs",
+              "ToolTip": "C:\\infinite_oct_2025\\Code Challenge-9\\WebApplication\\Model2.Context.cs",
+              "RelativeToolTip": "Model2.Context.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAA3AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-21T05:52:32.068Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Web.config",
+              "DocumentMoniker": "C:\\infinite_oct_2025\\Code Challenge-9\\WebApplication\\Web.config",
+              "RelativeDocumentMoniker": "Web.config",
+              "ToolTip": "C:\\infinite_oct_2025\\Code Challenge-9\\WebApplication\\Web.config",
+              "RelativeToolTip": "Web.config",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAFsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000601|",
+              "WhenOpened": "2026-01-21T05:46:26.341Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "OrderController.cs",
+              "DocumentMoniker": "C:\\infinite_oct_2025\\Code Challenge-9\\WebApplication\\Controllers\\OrderController.cs",
+              "RelativeDocumentMoniker": "Controllers\\OrderController.cs",
+              "ToolTip": "C:\\infinite_oct_2025\\Code Challenge-9\\WebApplication\\Controllers\\OrderController.cs",
+              "RelativeToolTip": "Controllers\\OrderController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAABHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-21T05:39:50.549Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "CustomerAndOrder.cs",
+              "DocumentMoniker": "C:\\infinite_oct_2025\\Code Challenge-9\\WebApplication\\Models\\CustomerAndOrder.cs",
+              "RelativeDocumentMoniker": "Models\\CustomerAndOrder.cs",
+              "ToolTip": "C:\\infinite_oct_2025\\Code Challenge-9\\WebApplication\\Models\\CustomerAndOrder.cs",
+              "RelativeToolTip": "Models\\CustomerAndOrder.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-21T05:38:19.084Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Model2.edmx [Diagram1]",
+              "DocumentMoniker": "C:\\infinite_oct_2025\\Code Challenge-9\\WebApplication\\Model2.edmx",
+              "RelativeDocumentMoniker": "Model2.edmx",
+              "ToolTip": "C:\\infinite_oct_2025\\Code Challenge-9\\WebApplication\\Model2.edmx [Diagram1]",
+              "RelativeToolTip": "Model2.edmx [Diagram1]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001116|",
+              "WhenOpened": "2026-01-21T05:34:15.346Z",
+              "EditorCaption": " [Diagram1]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Model2.Context.tt",
+              "DocumentMoniker": "C:\\infinite_oct_2025\\Code Challenge-9\\WebApplication\\Model2.Context.tt",
+              "RelativeDocumentMoniker": "Model2.Context.tt",
+              "ToolTip": "C:\\infinite_oct_2025\\Code Challenge-9\\WebApplication\\Model2.Context.tt",
+              "RelativeToolTip": "Model2.Context.tt",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAABKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003109|",
+              "WhenOpened": "2026-01-21T05:52:51.881Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "WebApiConfig.cs",
+              "DocumentMoniker": "C:\\infinite_oct_2025\\Code Challenge-9\\WebApplication\\App_Start\\WebApiConfig.cs",
+              "RelativeDocumentMoniker": "App_Start\\WebApiConfig.cs",
+              "ToolTip": "C:\\infinite_oct_2025\\Code Challenge-9\\WebApplication\\App_Start\\WebApiConfig.cs",
+              "RelativeToolTip": "App_Start\\WebApiConfig.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAA9AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-21T05:14:39.451Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
